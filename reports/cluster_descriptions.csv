@@ -1,0 +1,5 @@
+Cluster,Name,Customers,Avg_CLV,Avg_Spending,Avg_Frequency,Avg_Recency,Description
+0,Moderate Recent,1237,3907.5395707942953,1355.0269943411479,4.040420371867421,49.47210994341148,"Regular customers with moderate engagement, recent purchases"
+1,VIP Champions,651,13545.39070755001,8833.174101382489,14.417818740399385,13.872503840245775,"BEST customers - frequent buyers, very recent, highest spending"
+2,High Value Outliers,1595,164898.06584676512,461.73448965517235,1.0752351097178683,154.42633228840126,"One-time big spenders, haven't returned yet"
+3,At-Risk,855,3581.0791065928183,875.2943403508772,2.8456140350877193,94.20701754385965,"Customers who haven't purchased recently, need re-engagement"
