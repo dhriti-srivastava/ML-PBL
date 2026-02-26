@@ -1,0 +1,3 @@
+algorithm,n_clusters,silhouette,params
+KMeans,2,0.3450060248512632,"{""n_clusters"": 2}"
+DBSCAN,4,0.2168062537320985,"{""eps"": 0.6495317854371339, ""min_samples"": 5}"
